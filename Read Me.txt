@@ -1,0 +1,1 @@
+First ever HTML/CSS page and first ever tribute page. Basic concepts to get me ready for javascript.
